@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andreiwow2
 - 👀 I’m interested in Web Development and Phone Apps Development 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on creating a Phone App
-- 📫 How to reach me @delcea_andrei on Twitter
+- 📫 How to reach me, @delcea_andrei on Twitter
 
 <!---
 andreiwow2/andreiwow2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

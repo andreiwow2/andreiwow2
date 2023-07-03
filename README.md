@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/Discord: .divergent-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" >
 
 - 👋 Hi, I’m @andreiwow2
-- 👀 I’m interested in Web Development and Phone Apps Development 
+- 👀 I’m interested in Web Development, Desktop and Phone Apps Development 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on creating a Phone App
-- 📫 How to reach me, @delcea_andrei on Twitter
+- 📫 How to reach me, @delcea_andrei on Twitter or .divergent on Discord.
 
 <br>
 <br>
